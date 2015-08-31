@@ -2,9 +2,11 @@
 
 module.exports = (grunt) ->
 
-  require('jit-grunt') grunt
   require('time-grunt') grunt
   autoprefixer = require('autoprefixer-core')(browsers: 'last 2 versions')
+
+  grunt.task.loadNpmTasks('grunt-sass')
+  grunt.task.loadNpmTasks('grunt-postcss')
 
   grunt.initConfig
     sass:
