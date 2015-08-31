@@ -78,7 +78,7 @@ Total 209ms
 
 ## Conclusão
 
-Os dados acima mostra que carregando os plugins na mão a performance é melhor nos 2 casos.
+Os dados acima mostram que carregando os plugins na mão a performance é melhor nos 2 casos.
 
 ### Gulp
 
