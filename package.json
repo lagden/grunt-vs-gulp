@@ -1,0 +1,27 @@
+{
+  "name": "grunt-vs-gulp",
+  "version": "0.1.0",
+  "description": "Apenas um show",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "gulp",
+    "test"
+  ],
+  "author": "Thiago Lagden",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "grunt": "^0.4.5",
+    "grunt-postcss": "^0.6.0",
+    "grunt-sass": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.0",
+    "gulp-sass": "^2.0.4",
+    "jit-grunt": "^0.9.1",
+    "time-grunt": "^1.2.1"
+  }
+}

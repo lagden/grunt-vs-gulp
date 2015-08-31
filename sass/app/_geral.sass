@@ -1,0 +1,25 @@
+html, body
+  margin: 0
+  padding: 0
+
+html
+  +monospace
+  background-color: gray
+  color: white
+  overflow-y: visible
+
+body
+  position: relative
+  padding: 10px
+  overflow-y: visible
+
+.lista
+  display: flex
+  flex-direction: column
+  margin: 1em
+  justify-content: space-around
+  +breakpoint(668px)
+    flex-direction: row
+
+  > .center
+    margin: 1em auto
