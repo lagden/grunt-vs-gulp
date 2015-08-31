@@ -17,13 +17,8 @@ npm start
 
 ## Resultados
 
-Acho que faltou um medidor de tempo igual para os dois,
-pois para mim foi muito parecido.
-
-Deu pra perceber que o `Gulp` foi ligeiramente mais rápido
-sem  utilizar o `gulp-load-plugins`
-
-Veja abaixo:
+Foi muito parecido!
+Veja os dados abaixo:
 
 ### Gulp
 
