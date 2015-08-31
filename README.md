@@ -90,12 +90,12 @@ Carregar os plugins na mão é `37%` mais rápido.
 
 ### Grunt vs Gulp
 
-Não achei um medidor adequado para o tira.
+Não achei um medidor adequado para o tira teima!!!
 
 Então fiz os testes com o `gulp-duration` e `time-grunt`, sem eles a execução da `task` é muito rápida!
 O problema é que o **Grunt** não retorna nenhum tipo de dado sem o `time-grunt`.
 
-Se comparar os dados do `gulp-duration` e `time-grunt`, ou seja, sem o `loading tasks` fica assim:
+Se comparar os dados do `gulp-duration` e `time-grunt`, sem o `loading tasks` fica assim:
 
 **Grunt**
 
